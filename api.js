@@ -1,0 +1,1 @@
+import axios from 'axios';export const getProperties=()=>axios.get('https://68b826bcb715405043274639.mockapi.io/api/properties/PropertyListing').then(r=>r.data);
