@@ -1,0 +1,1 @@
+export default function Hero(){return (<section className='py-16'><div className='max-w-6xl mx-auto px-6'><h1 className='text-4xl font-bold'>Find your dream home</h1></div></section>)}

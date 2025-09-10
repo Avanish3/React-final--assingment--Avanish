@@ -1,0 +1,1 @@
+export default function Footer(){return (<footer className='mt-12 bg-slate-50 p-8'><div className='max-w-6xl mx-auto text-slate-600 flex justify-between'><div><h4 className='font-bold'>RealEstate</h4><p className='text-sm'>© {new Date().getFullYear()} Avanish</p></div><div className='text-sm'>Built for assignment</div></div></footer>)}

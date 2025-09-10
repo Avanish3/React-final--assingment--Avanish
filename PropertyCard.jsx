@@ -1,0 +1,1 @@
+export default function PropertyCard({p}){return (<div className='card p-4'><h3>{p.title}</h3><p>{p.location}</p></div>)}
